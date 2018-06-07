@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         text=findViewById(R.id.textView_YESNO);
 
        final String[] sec={
-          "YES","NO"
+          " YES"," NO"
         };
 
        final Random numbergen=new Random();
